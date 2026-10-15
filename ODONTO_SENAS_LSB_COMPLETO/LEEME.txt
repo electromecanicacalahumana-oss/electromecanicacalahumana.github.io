@@ -1,0 +1,9 @@
+ODONTOSEÑAS LSB - PAGINA INTERACTIVA
+
+1. Extrae todo el archivo ZIP en una carpeta.
+2. Mantén juntos index.html, juegos.html, juego1.html, juego2.html, juego3.html, las imágenes PNG y los cinco videos MP4.
+3. Abre index.html con doble clic en Chrome, Edge o Firefox.
+
+La portada sigue el estilo de la imagen de referencia: fotografía de la UPEA, logo, ilustración dental, menú y cinco tarjetas de acceso.
+Las tarjetas y el menú son interactivos. Los videos se reproducen desde los archivos locales incluidos.
+Los enlaces de Aprende LSB llevan a resultados de YouTube.
